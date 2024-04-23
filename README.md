@@ -12,11 +12,7 @@
 </h1>
   
 </div>
- :woman_technologist: About Me : I am a student at BSU. 
- 
-- 📑: I'm studying to be a programmer.
-
-- :zap: Explore mobile development.
+ :woman_technologist: About Me : I am Android Developer. 
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/olga-gapanovich/)
 
